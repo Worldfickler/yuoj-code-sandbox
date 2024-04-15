@@ -1,8 +1,8 @@
 package com.yupi.yuojcodesandbox.codesandbox.impl;
 
-import com.yupi.yuoj.judge.codesandbox.CodeSandbox;
-import com.yupi.yuoj.judge.codesandbox.model.ExecuteCodeRequest;
-import com.yupi.yuoj.judge.codesandbox.model.ExecuteCodeResponse;
+import com.yupi.yuojcodesandbox.CodeSandbox;
+import com.yupi.yuojcodesandbox.model.ExecuteCodeRequest;
+import com.yupi.yuojcodesandbox.model.ExecuteCodeResponse;
 
 /**
  * 远程代码沙箱
