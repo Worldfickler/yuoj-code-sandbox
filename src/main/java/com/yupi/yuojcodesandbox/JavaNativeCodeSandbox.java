@@ -28,7 +28,7 @@ import java.util.stream.Collectors;
 public class JavaNativeCodeSandbox implements CodeSandbox {
 
     public static final String GLOBAL_CODE_DIR_NAME = "tmpCode";
-    public static final String GLOBAL_JAVA_CLASS_NAME = "Main.java";
+    public static final String GLOBAL_JAVA_CLASS_NAME = "SleepError.java";
 
     public static void main(String[] args) {
         JavaNativeCodeSandbox javaNativeCodeSandbox = new JavaNativeCodeSandbox();
